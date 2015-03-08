@@ -29,15 +29,18 @@ Feel free to contribute new venues or help maintain accurate information in this
   * Template:
   * Submission deadline: 
   * Notification date:
-#### User Interfaces
+  
+### User Interfaces
 * ACM Conference on User Interface Science and Technology (UIST)
   * Template:
   * Submission deadline:
-#### Human-Computer Interaction (HCI)
+  
+### Human-Computer Interaction (HCI)
 * ACM Conference on Human Factors in Computing Systems (CHI)
   * Template:
   * Submission deadline:
-#### Computer-Supported Cooperative Work (CSCW)
+  
+### Computer-Supported Cooperative Work (CSCW)
 * ACM Conference on Computer-Supported Cooperative Work (CSCW)
   * Template:
   * Submission deadline:
@@ -45,7 +48,10 @@ Feel free to contribute new venues or help maintain accurate information in this
 # Journals
 ### Visualization
 * IEEE Transactions on Visualization and Computer Graphics
+
 ### User Interfaces
+
 ### Human-computer interaction
+
 ### Computer-Supported Cooperative Work (CSCW)
 
