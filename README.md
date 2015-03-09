@@ -53,7 +53,7 @@ Conferences, Symposia, Workshops
   * Notification date: **19 November 2014**
   
 ### Computer-Supported Cooperative Work (CSCW)
-* ACM Conference on Computer-Supported Cooperative Work (CSCW), March 14-18, 2015, Vancouver, BC, Canada
+* ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), March 14-18, 2015, Vancouver, BC, Canada
   * [Template](http://cscw.acm.org/2015/submit/cscw2013archivalformatLaTeX.zip) and [guidelines](http://cscw.acm.org/2015/submit/papers.php)
   * Submission deadline: **4 June 2014**
   * Notification date: **14 July 2014**
