@@ -34,21 +34,29 @@ Conferences, Symposia, Workshops
   * [Templates](http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html) and [guidelines](http://ieeevis.org/year/2015/info/call-participation/paper-submission-guidelines)
   * Submission deadline: **31 March 2015**
   * Notification date: **6 June 2015**
+* Workshop on Visualization for Cyber Security (VizSec), October 25-30, 2015, Chicago, Illinois, USA
+  * Template and guidelines: **TBA**
+  * Submission deadline: **TBA**
+  * Notification date: **TBA**
   
 ### User Interfaces
-* ACM Conference on User Interface Science and Technology (UIST)
-  * Template:
-  * Submission deadline:
+* ACM Conference on User Interface Science and Technology (UIST), November 8-11, 2015, Charlotte, NC, USA
+  * [Templates](http://www.sigchi.org/publications/chipubform) and [guidelines](http://uist.acm.org/uist2015/author-guide)
+  * Submission deadline: **14 April 2015**
+  * Notification date: **3 June 2015**
+  
   
 ### Human-Computer Interaction (HCI)
-* ACM Conference on Human Factors in Computing Systems (CHI)
-  * Template:
-  * Submission deadline:
+* ACM Conference on Human Factors in Computing Systems (CHI), April 18-23, 2015, Seoul, Korea
+  * [Templates](http://chi2015.acm.org/authors/format/) and [guidelines](http://chi2015.acm.org/authors/)
+  * Submission deadline: **22 September 2014**
+  * Notification date: **19 November 2014**
   
 ### Computer-Supported Cooperative Work (CSCW)
-* ACM Conference on Computer-Supported Cooperative Work (CSCW)
-  * Template:
-  * Submission deadline:
+* ACM Conference on Computer-Supported Cooperative Work (CSCW), March 14-18, 2015, Vancouver, BC, Canada
+  * [Template](http://cscw.acm.org/2015/submit/cscw2013archivalformatLaTeX.zip) and [guidelines](http://cscw.acm.org/2015/submit/papers.php)
+  * Submission deadline: **4 June 2014**
+  * Notification date: **14 July 2014**
 
 <a name="journals"></a>
 # Journals
