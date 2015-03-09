@@ -72,5 +72,3 @@ Conferences, Symposia, Workshops
 * ACM Transactions on Computer Human Interaction (ToCHI)
 * Human-Computer Interaction
 
-### Computer-Supported Cooperative Work (CSCW)
-
