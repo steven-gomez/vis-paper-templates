@@ -22,6 +22,7 @@ Conferences, Symposia, Workshops
 
 ## 2015
 ### Visualization
+
 * IEEE Conference on Information Visualization (InfoVis), October 25-30, 2015, Chicago, Illinois, USA
   * [Templates](http://junctionpublishing.org/vgtc/Tasks/camera_tvcg.html) and [guidelines](http://ieeevis.org/year/2015/info/call-participation/paper-submission-guidelines)
   * Submission deadline: **31 March 2015**
@@ -38,21 +39,21 @@ Conferences, Symposia, Workshops
   * Template and guidelines: **TBA**
   * Submission deadline: **TBA**
   * Notification date: **TBA**
-  
-### User Interfaces
-* ACM Conference on User Interface Science and Technology (UIST), November 8-11, 2015, Charlotte, NC, USA
-  * [Templates](http://www.sigchi.org/publications/chipubform) and [guidelines](http://uist.acm.org/uist2015/author-guide)
-  * Submission deadline: **14 April 2015**
-  * Notification date: **3 June 2015**
-  
+* EuroVis 2015, May 25-29 2015, Cagliari, Sardinia, Italy
+  * [Template](http://www.eurovis2015.it/eurovis2015-repo/egPublStyle-EuroVis2015.zip) and [guidelines](http://www.eurovis2015.it/for-submitters/author-guidelines)
+  * Submission deadline: **5 December 2014**
+  * Notification date: **9 February 2015**
   
 ### Human-Computer Interaction (HCI)
+
 * ACM Conference on Human Factors in Computing Systems (CHI), April 18-23, 2015, Seoul, Korea
   * [Templates](http://chi2015.acm.org/authors/format/) and [guidelines](http://chi2015.acm.org/authors/)
   * Submission deadline: **22 September 2014**
   * Notification date: **19 November 2014**
-  
-### Computer-Supported Cooperative Work (CSCW)
+* ACM Conference on User Interface Science and Technology (UIST), November 8-11, 2015, Charlotte, NC, USA
+  * [Templates](http://www.sigchi.org/publications/chipubform) and [guidelines](http://uist.acm.org/uist2015/author-guide)
+  * Submission deadline: **14 April 2015**
+  * Notification date: **3 June 2015**
 * ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW), March 14-18, 2015, Vancouver, BC, Canada
   * [Template](http://cscw.acm.org/2015/submit/cscw2013archivalformatLaTeX.zip) and [guidelines](http://cscw.acm.org/2015/submit/papers.php)
   * Submission deadline: **4 June 2014**
@@ -61,11 +62,15 @@ Conferences, Symposia, Workshops
 <a name="journals"></a>
 # Journals
 ### Visualization
-* IEEE Transactions on Visualization and Computer Graphics
 
-### User Interfaces
+* IEEE Transactions on Visualization and Computer Graphics (TVCG)
+* ACM Transactions on Graphics (ToG)
+* IEEE Computer Graphics and Applications (CG+A)
 
-### Human-computer interaction
+### Human-Computer Interaction
+
+* ACM Transactions on Computer Human Interaction (ToCHI)
+* Human-Computer Interaction
 
 ### Computer-Supported Cooperative Work (CSCW)
 
